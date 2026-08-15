@@ -1,4 +1,4 @@
-# Vanity Metrics: The Numbers That Feel Good and Decide Nothing
+# Vanity Metrics: You Can't Deposit Likes at the Bank
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joedom99/vanity-metrics-for-marketers/blob/main/vanity_metrics_for_marketers.ipynb)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/joedom99/vanity-metrics-for-marketers/blob/main/LICENSE)
 [![Blog](https://img.shields.io/badge/Blog-Marketing%20Data%20Science-teal)](https://blog.marketingdatascience.ai)
 
-Companion notebook for the article **"Vanity Metrics: The Numbers That Feel Good and Decide Nothing"** on the [Marketing Data Science blog](https://blog.marketingdatascience.ai) by Joe Domaleski.
+Companion notebook for the article **"Vanity Metrics: You Can't Deposit Likes at the Bank"** on the [Marketing Data Science blog](https://blog.marketingdatascience.ai) by Joe Domaleski.
 
 ## What This Is
 
